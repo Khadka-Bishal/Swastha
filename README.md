@@ -9,9 +9,25 @@ To clone this project:
     git clone https://github.com/Khadka-Bishal/Swastha.git
     ```
 
-pip install librosa, flask, requests, tensorflow for the ml-api and heart app. Run ml-api using python app.py and Heart app using python3 app.py. Similarly, run the main application: the website with npm run dev. Make sure to use vite using npm as well.
+For use alongside the diagnosis model at https://github.com/abhigyak47/ml-api . Please follow the instructions there to set it up.
+For use alongside the chatbot at https://github.com/abhigyak47/heart-app . Please follow the instrusctions there to set it up.
 
-If you can't access the ml-api, it is also available at https://github.com/abhigyak47/ml-api .
+
+To set up and run this application:
+
+1. Install Vite:
+   In your project directory, run the following command to install all necessary dependencies:
+
+   npm install
+
+2. Run the application:
+   After installation is complete, start the development server with:
+
+   npm run dev
+
+This will launch the application locally, typically accessible at http://localhost:5173.
+
+
 
 ## Team Members and Roles
 - **Tareq**: Biomedical engineer
