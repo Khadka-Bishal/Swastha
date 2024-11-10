@@ -11,7 +11,7 @@ To clone this project:
 
 pip install librosa, flask, requests, tensorflow for the ml-api and heart app. Run ml-api using python app.py and Heart app using python3 app.py. Similarly, run the main application: the website with npm run dev. Make sure to use vite using npm as well.
 
-If you can't access the ml-api, it is also available at https://github.com/abhigyak47/ml-api . It makes use of the OnDemand gpt 4o endpoint, along with agents such as Health Chat, Email Agent, Twilio, Global Knowledge Agent.
+If you can't access the ml-api, it is also available at https://github.com/abhigyak47/ml-api .
 
 ## Team Members and Roles
 - **Tareq**: Biomedical engineer
@@ -19,4 +19,4 @@ If you can't access the ml-api, it is also available at https://github.com/abhig
 - **Bishal**: Fullstack Developer, UI/UX Designer, Back
   
 ## OnDemand API Utilization
-This project utilizes the OnDemand API to create the chatbot and get responses. Below are the key endpoints and their usage:
+This project utilizes the OnDemand API to create the chatbot and get responses. More specifically, it makes use of the OnDemand gpt 4o endpoint for the chatbot, along with agents such as Health Chat, Email Agent, Twilio, Global Knowledge Agent to provide specialized health information and send your diagnosis to your doctor.
