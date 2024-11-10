@@ -9,6 +9,8 @@ To clone this project:
     git clone https://github.com/Khadka-Bishal/Swastha.git
     ```
 
+pip install librosa, flask, requests, tensorflow for the ml-api and heart app. Run ml-api using python app.py and Heart app using python3 app.py. Similarly, run the main application: the website with npm run dev. Make sure to use vite using npm as well.
+
 ## Team Members and Roles
 - **Tareq**: Biomedical engineer
 - **Abhigya**: ML Model + Chatbot developer
