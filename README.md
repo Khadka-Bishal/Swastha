@@ -1,4 +1,4 @@
-# Project Name
+# Swastha
 
 ## Project Description
 This project aims to improve healthcare access in rural areas through technology. This offline-first application enables healthcare workers to manage patient records, conduct telemedicine sessions, and provide essential healthcare services in areas with limited internet connectivity.
