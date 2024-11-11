@@ -37,3 +37,5 @@ This will launch the application locally, typically accessible at http://localho
 ## OnDemand API Utilization
 This project utilizes the OnDemand API to create the chatbot and get responses. More specifically, it makes use of the OnDemand gpt 4o endpoint for the chatbot, along with agents such as Health Chat, Email Agent, Twilio, Global Knowledge Agent to provide specialized health information and send your diagnosis to your doctor.
 On a side note, we've also made use of BYOI for the CNN model predicting the heartbeat diagnosis.
+
+
