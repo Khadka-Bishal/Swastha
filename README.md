@@ -3,6 +3,9 @@
 ## Project Description
 This project aims to improve healthcare access in rural areas through technology. This offline-first application enables healthcare workers to manage patient records, conduct telemedicine sessions, and provide essential healthcare services in areas with limited internet connectivity.
 
+## API Usage
+We have used OnDemand Chat API for chat response and Firebase API for authentication. They were hardcoded for testing purposes but the corresponding API keys have been deleted and are inaccessible.
+
 ## Usage Guidelines
 To clone this project:
     ```sh
