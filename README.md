@@ -35,7 +35,7 @@ This will launch the application locally, typically accessible at http://localho
 ## Team Members and Roles
 - **Tareq**: Biomedical engineer
 - **Abhigya**: ML Model + Chatbot developer
-- **Bishal**: Fullstack Developer, UI/UX Designer, Back
+- **Bishal**: Fullstack Developer, UI/UX Designer
   
 ## OnDemand API Utilization
 This project utilizes the OnDemand API to create the chatbot and get responses. More specifically, it makes use of the OnDemand gpt 4o endpoint for the chatbot, along with agents such as Health Chat, Email Agent, Twilio, Global Knowledge Agent to provide specialized health information and send your diagnosis to your doctor.
