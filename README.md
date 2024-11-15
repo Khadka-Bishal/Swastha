@@ -12,8 +12,8 @@ To clone this project:
     git clone https://github.com/Khadka-Bishal/Swastha.git
     ```
 
-For use alongside the diagnosis model at https://github.com/abhigyak47/ml-api . Please follow the instructions there to set it up.
-For use alongside the chatbot at https://github.com/abhigyak47/heart-app . Please follow the instrusctions there to set it up.
+For use alongside the diagnosis model at https://github.com/abhigyak47/ml-api .
+For use alongside the chatbot at https://github.com/abhigyak47/heart-app . Please follow the instructions included in each of them to set them up.
 
 
 To set up and run this application:
