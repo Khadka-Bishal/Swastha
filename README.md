@@ -8,7 +8,7 @@ We have used OnDemand Chat API for chat response and Firebase API for authentica
 
 ## Usage Guidelines
 To clone this project:
-    ```sh
+    ```
     git clone https://github.com/Khadka-Bishal/Swastha.git
     ```
 
